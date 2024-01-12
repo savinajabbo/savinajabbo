@@ -1,5 +1,7 @@
 # Hey, I'm Savina 👋
 
+[![Savina's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinajabbo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **savinajabbo/savinajabbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
