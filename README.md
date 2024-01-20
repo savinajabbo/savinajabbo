@@ -1,8 +1,14 @@
 # Hey, I'm Savina 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=savinajabbo)](https://git.io/streak-stats)
+- 🤍 I’m currently working on creating Neural Nets & Machine Learning!
+- 👉🏻 Check the website I made for a hackathon I'm organizing! [sunsethacks.com](https://sunsethacks.com/)
 
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning **Python**
+
+- ⚡ Fun fact: I love going to cafes!
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=savinajabbo)](https://git.io/streak-stats)
 
 <!--
 **savinajabbo/savinajabbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
