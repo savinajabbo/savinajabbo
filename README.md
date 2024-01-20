@@ -1,6 +1,6 @@
 # Hey, I'm Savina 👋
 
-- 🤍 I’m currently working on creating Neural Nets & Machine Learning!
+- 🤍 I’m currently creating Neural Nets & Machine Learning!
 - 👉🏻 Check the website I made for a hackathon I'm organizing! [sunsethacks.com](https://sunsethacks.com/)
 
 - 🌱 I’m currently learning **Python**
