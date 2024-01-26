@@ -3,7 +3,7 @@
 - 🤍 I’m currently creating Neural Nets & Machine Learning!
 - 👉🏻 Check the website I made for a hackathon I'm organizing! [sunsethacks.com](https://sunsethacks.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JS** and **React**
 
 - ⚡ Fun fact: I love going to cafes!
 
