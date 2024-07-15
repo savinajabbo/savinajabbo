@@ -1,9 +1,8 @@
 # Hey, I'm Savina 👋
 
-- 🤍 I’m currently creating an app!
-- 👉🏻 Check out the hackathon I'm organizing! [sunsethacks.com](https://sunsethacks.com/)
+- 🤍 I’m currently creating rockets
 
-- 🌱 I’m currently learning **JS** and **React**
+- 🌱 I’m currently learning rockets
 
 - ⚡ Fun fact: I love going to cafes!
 
