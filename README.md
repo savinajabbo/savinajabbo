@@ -4,6 +4,6 @@
 
 - 🤍 i'm currently creating content
 
-- ⚡ my website: [savina.vercel.app]
+- ⚡ [my website](savina.vercel.app)
 
 - 🌲 Stanford '30
